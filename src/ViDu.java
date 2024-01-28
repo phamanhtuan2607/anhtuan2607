@@ -8,7 +8,6 @@ public class ViDu {
         // Một số ví dụ
         System.out.println("Nhap vao ho va ten: ");
         String hoVaTen = sc.nextLine();
-        System.out.println();
 
         System.out.println("Nhap ma sinh vien: ");
         long maSinhVien = sc.nextLong();
