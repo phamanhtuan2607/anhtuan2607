@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Bai01 {
+public class Bai09 {
     public static void main(String[] args) {
         // Khai báo biến để đọc dữ liệu
         Scanner sc = new Scanner(System.in);
