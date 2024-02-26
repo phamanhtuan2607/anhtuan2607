@@ -19,7 +19,7 @@ public class TinhDienTichVaChuVi {
     }
     public static double tinhChuViTamGiac(double a, double b,double c)
     {
-        double cv ;
+        Double cv ;
         return cv = a+b+c ;
     }
     public static double tinhDienTichTamGiac(double a, double b,double c)
